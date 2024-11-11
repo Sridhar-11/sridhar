@@ -40,12 +40,4 @@ button{
     left:253px;
 
 }
- div{
-    width: 100px;
-    height: 100px;
-    background-color: red;
-    animation-name: demo;
-    animation-duration:2s;
-    animation-iteration-count: 20;
- }
 
