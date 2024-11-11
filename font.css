@@ -1,0 +1,59 @@
+a{
+    padding:0px;
+    margin: 3px 2px 3px 30px;
+    border:1px;
+    color: #090600;
+    position: relative;
+    right: 0px;
+    left:373px;
+    font-size: large;
+    font-weight:bold;
+
+
+}
+body{
+    background-color: orchid;
+}
+h1{
+    text-align: center;
+
+}
+.email{
+    text-align: center;
+    width: 300px;
+    height:30px;
+    border-radius: 50px;
+    position: absolute;
+    left:253px;
+}
+button{
+    background-color: green;
+    border-radius: 50px;
+    position: absolute;
+    left:380px;
+    top:163px;
+}
+.log{
+    font-size:small ;
+    position:absolute;
+    top:145px;
+    left:253px;
+
+}
+ div{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    animation-name: demo;
+    animation-duration:2s;
+    animation-iteration-count: 20;
+ }
+ @keyframes demo{
+    25%{background-color: white;
+    }
+
+50%{background-color:pink;}
+75%{background-color: black
+    ;}
+100{background-color:yellow;}
+ }
