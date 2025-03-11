@@ -26,11 +26,11 @@ h1{
     position: absolute;
     left:253px;
 }
-button{
+button:hover{
     background-color: green;
     border-radius: 50px;
     position: absolute;
-    left:380px;
+    left:800px;
     top:163px;
 }
 .log{
